@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes sales data using Microsoft Excel and presents insights through an interactive dashboard.
+This project analyzes sales data using Microsoft Excel and presents insights through a clean and interactive dashboard.
 
 ## Tools Used
 
@@ -12,20 +12,25 @@ This project analyzes sales data using Microsoft Excel and presents insights thr
 
 ## Features
 
-* Sales analysis by Category
+* Sales by Category Analysis
 * Region-wise breakdown
-* Total Sales calculation
-* Clean and simple dashboard design
+* Total Sales Calculation
+* Dashboard Visualization
 
 ## Key Insights
 
 * Technology category has highest sales
-* Office Supplies has lowest performance
-* Region-wise variations in sales observed
+* Office Supplies has lowest sales
+* Sales vary across different regions
+
+## Dashboard Preview
+
+<img width="1331" height="692" alt="image" src="https://github.com/user-attachments/assets/358c372e-14c3-44ca-8719-0f5460f9c02f" />
+
 
 ## Objective
 
-To practice data analysis and visualization skills using Excel.
+To practice data analysis and visualization using Excel.
 
 ## Author
 
